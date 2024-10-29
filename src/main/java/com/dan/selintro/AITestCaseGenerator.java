@@ -9,7 +9,7 @@ import org.json.JSONObject;
 public class AITestCaseGenerator {
     
     // Replace with your Hugging Face API key
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "your-api-key";
     private static final String API_URL = "https://api-inference.huggingface.co/models/gpt2"; // or another model on Hugging Face
 
     public static void main(String[] args) {

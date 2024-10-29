@@ -10,7 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class methodexe {
+public class Methodexe {
     
      public static void main(String[] args) throws InterruptedException {
     WebDriverManager.chromedriver().setup();

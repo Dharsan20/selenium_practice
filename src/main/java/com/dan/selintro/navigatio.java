@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 ;
 
-public class navigatio {
+public class Navigatio {
      public static void main(String[] args){
  
     WebDriver driver=new ChromeDriver();

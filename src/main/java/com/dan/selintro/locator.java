@@ -7,7 +7,7 @@ import org.testng.Assert;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class locator {
+public class Locator {
    
   public static void main(String[] args) throws InterruptedException {
     WebDriverManager.chromedriver().setup();
